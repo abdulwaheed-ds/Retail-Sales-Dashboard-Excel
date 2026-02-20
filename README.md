@@ -35,6 +35,10 @@ This project analyzes retail sales performance using Microsoft Excel. The dashbo
 - Charts & Visualization
 - Data Cleaning
 
+
+## 📷 Dashboard Preview
+<img width="687" height="334" alt="Dashboard img" src="https://github.com/user-attachments/assets/e08dc28f-f5d2-437b-ae5b-4c92514a682f" />
+
 ---
 
 ### 👤 Abdul Waheed Ansari
